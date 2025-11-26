@@ -1,0 +1,64 @@
+{
+  "nfts": [
+    {
+      "id": 1,
+      "name": "Algorand Founders",
+      "unitName": "ALGFND",
+      "description": "Limited edition NFT celebrating Algorand founders",
+      "creator": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY5HVY",
+      "image": "https://via.placeholder.com/300x300?text=Algorand+Founders",
+      "ipfsHash": "QmExample1",
+      "total": 100,
+      "balance": 10,
+      "decimals": 0
+    },
+    {
+      "id": 2,
+      "name": "Digital Art Series",
+      "unitName": "DART",
+      "description": "Contemporary digital art collection on Algorand",
+      "creator": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB46A",
+      "image": "https://via.placeholder.com/300x300?text=Digital+Art",
+      "ipfsHash": "QmExample2",
+      "total": 50,
+      "balance": 3,
+      "decimals": 0
+    },
+    {
+      "id": 3,
+      "name": "Tech Innovation Badge",
+      "unitName": "TECH",
+      "description": "Commemorative badge for tech innovation contributors",
+      "creator": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCQB4",
+      "image": "https://via.placeholder.com/300x300?text=Tech+Badge",
+      "ipfsHash": "QmExample3",
+      "total": 1000,
+      "balance": 0,
+      "decimals": 0
+    },
+    {
+      "id": 4,
+      "name": "Blockchain Pioneer",
+      "unitName": "BLKCHAIN",
+      "description": "Recognition for early blockchain explorers",
+      "creator": "DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDQ5ZQ",
+      "image": "https://via.placeholder.com/300x300?text=Blockchain+Pioneer",
+      "ipfsHash": "QmExample4",
+      "total": 500,
+      "balance": 1,
+      "decimals": 0
+    },
+    {
+      "id": 5,
+      "name": "Community Member Pass",
+      "unitName": "PASS",
+      "description": "Exclusive access pass for community members",
+      "creator": "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEQAB4",
+      "image": "https://via.placeholder.com/300x300?text=Member+Pass",
+      "ipfsHash": "QmExample5",
+      "total": 2000,
+      "balance": 5,
+      "decimals": 0
+    }
+  ]
+}
