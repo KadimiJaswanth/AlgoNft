@@ -1,0 +1,4 @@
+[
+  { "id": "tx-1", "status": "confirmed" },
+  { "id": "tx-2", "status": "pending" }
+]
